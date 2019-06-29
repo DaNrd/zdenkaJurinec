@@ -1,4 +1,4 @@
-var imageCount = 34;
+var imageCount = 40;
 var returnImageDiv = "";
 for (var i = imageCount; 0 < i; i--){
 	var imageDiv = "<div class=\"grid-item\"><img src=\"/assets/images/work/" + i + ".jpg\"></div>";
